@@ -7,4 +7,5 @@ Soon:
 - [ ] Blogs section
 - [ ] Arabic/English Support 
 - [ ] Photos Section
-- [ ] CV/Resmue 
+- [ ] CV/Resmue
+- [ ] UCSD CSE notes 
